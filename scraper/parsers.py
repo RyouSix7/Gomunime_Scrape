@@ -6,7 +6,7 @@ from . import extract
 from .classify import ANIME, EPISODE
 from .models import Anime, Episode, EpisodeStub
 from .normalize import (as_date, as_float, as_int, clean_text, json_hash,
-                        norm_status, now_iso, slugify, stable_id)
+                        model_hash, norm_status, now_iso, slugify, stable_id)
 
 log = logging.getLogger("scraper.parsers")
 
