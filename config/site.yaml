@@ -1,0 +1,62 @@
+# Site-specific configuration. This is the ONLY file you should need to touch
+# when the site's URL structure or markup changes. Calibrate with:
+#   python -m scraper.cli probe https://gomunime.top/anime/<slug>
+
+base_url: https://gomunime.top
+
+routes:
+  # WordPress anime-theme conventions as defaults; verify with probe.
+  anime: '^/anime/(?P<slug>[^/]+)/?$'
+  episode:
+    - '^/(?P<anime>[^/]+)-episode-(?P<num>\d+)/?$'
+    - '^/anime/(?P<anime>[^/]+)-episode-(?P<num>\d+)/?$'
+    - '^/anime/(?P<anime>[^/]+)/episode-(?P<num>\d+)/?$'
+  genre: '^/genre/(?P<slug>[^/]+)/?$'
+  search: '/\?s='
+  listings:
+    - /
+    - /ongoing
+    - /completed
+    - /popular
+    - /anime-list
+    - /schedule
+
+# Path substrings never fetched (login/admin/irrelevant).
+exclude_paths:
+  - wp-admin
+  - wp-login
+  - wp-json
+  - /feed
+  - login
+  - register
+  - /author/
+  - /tag/
+  - discord
+  - t.me
+  - /dmca
+  - /privacy
+  - /contact
+
+selectors:
+  anime:
+    title: ["h1.post-title", "h1.entry-title", "h1"]
+    synopsis: [".entry-content", ".synopsis", ".desc", "[itemprop=description]"]
+    infobox: [".infozingle p", ".infozingle span", ".anime-info span", ".infobox span"]
+    genre_link: 'a[href*="/genre/"]'
+  episode:
+    title: ["h1.post-title", "h1.entry-title", "h1"]
+    infobox: [".infozingle p", ".anime-info span"]
+    date: ["time[datetime]", ".date", "[itemprop=datePublished]"]
+
+limits:
+  delay: 0.75            # seconds between requests (global, across all workers)
+  timeout: 25
+  retries: 3
+  concurrency: 4
+  max_pages_per_run: 4000
+  removal_after_404: 5
+  ttl:                   # re-crawl intervals per page type
+    listing: 6h
+    anime: 14d
+    episode: 3d
+    genre: 30d
