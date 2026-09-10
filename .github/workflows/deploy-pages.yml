@@ -1,0 +1,39 @@
+name: Deploy API
+
+on:
+  workflow_run:
+    workflows: ["Scrape"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload data
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./data/public
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
