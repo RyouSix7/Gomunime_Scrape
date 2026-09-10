@@ -1,0 +1,13 @@
+{
+ "generated_at": "2026-09-10T01:26:42Z",
+ "endpoints": {
+  "anime": "anime.json",
+  "anime_detail": "anime/{id}.json",
+  "genres": "genres.json",
+  "ongoing": "ongoing.json",
+  "completed": "completed.json",
+  "latest": "latest.json",
+  "popular": "popular.json",
+  "stats": "stats.json"
+ }
+}

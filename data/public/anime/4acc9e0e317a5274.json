@@ -1,0 +1,45 @@
+{
+ "id": "4acc9e0e317a5274",
+ "slug": "kancolle-movie",
+ "url": "",
+ "title": "Nonton Anime KanColle Movie Full Movie Sub Indo",
+ "type": null,
+ "status": null,
+ "season": null,
+ "studio": null,
+ "year": null,
+ "score": null,
+ "duration": null,
+ "episode_count": null,
+ "synopsis": null,
+ "raw": null,
+ "availability": "stub",
+ "content_hash": null,
+ "first_seen": "2026-09-10T00:54:39Z",
+ "last_seen": "2026-09-10T00:54:39Z",
+ "last_changed": null,
+ "alt_titles": [],
+ "genres": [],
+ "images": [
+  "https://gomunime.top/storage/posters/kancolle-movie-banner.jpg"
+ ],
+ "episodes": [
+  {
+   "id": "bfb63d1b6e335706",
+   "anime_id": "4acc9e0e317a5274",
+   "number": 1.0,
+   "title": "Nonton Anime KanColle Movie Full Movie Sub Indo",
+   "url": "https://gomunime.top/kancolle-movie-episode-1",
+   "air_date": "2026-05-16",
+   "availability": "ok",
+   "first_seen": "2026-09-10T00:54:39Z",
+   "last_seen": "2026-09-10T00:54:39Z",
+   "last_changed": "2026-09-10T00:54:39Z",
+   "images": [
+    "https://gomunime.top/storage/posters/kancolle-movie-banner.jpg",
+    "https://gomunime.top/img/logo.png",
+    "https://gomunime.top/storage/posters/kancolle-movie-poster.webp?v=2"
+   ]
+  }
+ ]
+}
