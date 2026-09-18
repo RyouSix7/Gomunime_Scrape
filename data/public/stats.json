@@ -3,23 +3,23 @@
  "anime_ok": 0,
  "anime_stub": 472,
  "anime_removed": 0,
- "episodes_total": 4517,
+ "episodes_total": 4520,
  "genres": 0,
  "last_successful_run": {
-  "run_id": "2f471a56d8d6",
-  "started": "2026-09-18T16:28:48Z",
-  "finished": "2026-09-18T16:29:05Z",
-  "pages_fetched": 10,
+  "run_id": "522b4e80f7b1",
+  "started": "2026-09-18T20:57:32Z",
+  "finished": "2026-09-18T20:57:58Z",
+  "pages_fetched": 18,
   "pages_not_modified": 0,
   "errors": 0,
   "anime_created": 0,
   "anime_updated": 0,
   "anime_unchanged": 0,
-  "episode_created": 5,
+  "episode_created": 3,
   "episode_updated": 0,
-  "episode_unchanged": 1,
+  "episode_unchanged": 8,
   "status": "ok",
-  "notes": "{\"fetched\": 10, \"not_modified\": 0, \"robots_skipped\": 0, \"skipped_fresh\": 0, \"errors\": 0, \"parse_rejects\": 0, \"removed\": 4, \"discovered\": 257, \"anime_created\": 0, \"anime_updated\": 0, \"anime_unchanged\": 0, \"episode_created\": 5, \"episode_updated\": 0, \"episode_unchanged\": 1}"
+  "notes": "{\"fetched\": 18, \"not_modified\": 0, \"robots_skipped\": 0, \"skipped_fresh\": 0, \"errors\": 0, \"parse_rejects\": 0, \"removed\": 4, \"discovered\": 588, \"anime_created\": 0, \"anime_updated\": 0, \"anime_unchanged\": 0, \"episode_created\": 3, \"episode_updated\": 0, \"episode_unchanged\": 8}"
  },
- "generated_at": "2026-09-18T16:29:05Z"
+ "generated_at": "2026-09-18T20:57:58Z"
 }
