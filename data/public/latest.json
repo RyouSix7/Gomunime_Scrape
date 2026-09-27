@@ -1,6 +1,126 @@
 {
  "items": [
   {
+   "id": "9fe494f571759124",
+   "slug": "one-piece",
+   "url": "",
+   "title": "Nonton Anime One Piece Episode 1120 Sub Indo",
+   "type": null,
+   "status": null,
+   "season": null,
+   "studio": null,
+   "year": null,
+   "score": null,
+   "duration": null,
+   "episode_count": null,
+   "availability": "stub",
+   "first_seen": "2026-09-10T00:47:51Z",
+   "last_seen": "2026-09-10T00:47:51Z",
+   "last_changed": null,
+   "latest_episode_seen": "2026-09-27T17:01:37Z",
+   "alt_titles": [],
+   "genres": [],
+   "images": [
+    "https://gomunime.top/storage/posters/one-piece-banner.jpg"
+   ]
+  },
+  {
+   "id": "09cd92b4ad5085f6",
+   "slug": "tempal-item-no-chikara",
+   "url": "",
+   "title": "Nonton Anime Tempal Item No Chikara Episode 1 Sub Indo",
+   "type": null,
+   "status": null,
+   "season": null,
+   "studio": null,
+   "year": null,
+   "score": null,
+   "duration": null,
+   "episode_count": null,
+   "availability": "stub",
+   "first_seen": "2026-09-27T17:01:36Z",
+   "last_seen": "2026-09-27T17:01:36Z",
+   "last_changed": null,
+   "latest_episode_seen": "2026-09-27T17:01:36Z",
+   "alt_titles": [],
+   "genres": [],
+   "images": [
+    "https://anime-indo.lol/img/Tempal-Item-no-Chikara.jpg"
+   ]
+  },
+  {
+   "id": "ed7f1cf987f45fd5",
+   "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
+   "url": "",
+   "title": "Nonton Anime Mushoku Tensei Iii Isekai Ittara Honki Dasu Episode 1 Sub Indo",
+   "type": null,
+   "status": null,
+   "season": null,
+   "studio": null,
+   "year": null,
+   "score": null,
+   "duration": null,
+   "episode_count": null,
+   "availability": "stub",
+   "first_seen": "2026-09-10T01:24:44Z",
+   "last_seen": "2026-09-10T01:24:44Z",
+   "last_changed": null,
+   "latest_episode_seen": "2026-09-27T17:01:35Z",
+   "alt_titles": [],
+   "genres": [],
+   "images": [
+    "https://gomunime.top/storage/posters/mushoku-tensei-iii-isekai-ittara-honki-dasu-poster.jpg"
+   ]
+  },
+  {
+   "id": "77ade2e59d81aac4",
+   "slug": "tensei-kizoku-kantei-skill-de-nariagaru-3rd-season",
+   "url": "",
+   "title": "Nonton Anime Tensei Kizoku Kantei Skill De Nariagaru 3rd Season Episode 1 Sub Indo",
+   "type": null,
+   "status": null,
+   "season": null,
+   "studio": null,
+   "year": null,
+   "score": null,
+   "duration": null,
+   "episode_count": null,
+   "availability": "stub",
+   "first_seen": "2026-09-27T17:01:34Z",
+   "last_seen": "2026-09-27T17:01:34Z",
+   "last_changed": null,
+   "latest_episode_seen": "2026-09-27T17:01:34Z",
+   "alt_titles": [],
+   "genres": [],
+   "images": [
+    "https://anime-indo.lol/img/Tensei-Kizoku-Kantei-Skill-de-Nariagaru-3rd-Season.jpg"
+   ]
+  },
+  {
+   "id": "b98fa88741076823",
+   "slug": "nijusseiki-denki-mokuroku-eureka-evrika",
+   "url": "",
+   "title": "Nonton Anime Nijusseiki Denki Mokuroku Eureka Evrika Episode 1 Sub Indo",
+   "type": null,
+   "status": null,
+   "season": null,
+   "studio": null,
+   "year": null,
+   "score": null,
+   "duration": null,
+   "episode_count": null,
+   "availability": "stub",
+   "first_seen": "2026-09-10T01:25:03Z",
+   "last_seen": "2026-09-10T01:25:03Z",
+   "last_changed": null,
+   "latest_episode_seen": "2026-09-27T17:01:33Z",
+   "alt_titles": [],
+   "genres": [],
+   "images": [
+    "https://gomunime.top/storage/posters/nijusseiki-denki-mokuroku-eureka-evrika-poster.jpg"
+   ]
+  },
+  {
    "id": "0de9d7c476a3eb9c",
    "slug": "seihantai-na-kimi-to-boku-2nd-season",
    "url": "",
@@ -529,30 +649,6 @@
    ]
   },
   {
-   "id": "9fe494f571759124",
-   "slug": "one-piece",
-   "url": "",
-   "title": "Nonton Anime One Piece Episode 1120 Sub Indo",
-   "type": null,
-   "status": null,
-   "season": null,
-   "studio": null,
-   "year": null,
-   "score": null,
-   "duration": null,
-   "episode_count": null,
-   "availability": "stub",
-   "first_seen": "2026-09-10T00:47:51Z",
-   "last_seen": "2026-09-10T00:47:51Z",
-   "last_changed": null,
-   "latest_episode_seen": "2026-09-27T05:23:54Z",
-   "alt_titles": [],
-   "genres": [],
-   "images": [
-    "https://gomunime.top/storage/posters/one-piece-banner.jpg"
-   ]
-  },
-  {
    "id": "8e2897ad5962502e",
    "slug": "azur-lane-bisoku-zenshin-ni",
    "url": "",
@@ -937,30 +1033,6 @@
    ]
   },
   {
-   "id": "ed7f1cf987f45fd5",
-   "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
-   "url": "",
-   "title": "Nonton Anime Mushoku Tensei Iii Isekai Ittara Honki Dasu Episode 1 Sub Indo",
-   "type": null,
-   "status": null,
-   "season": null,
-   "studio": null,
-   "year": null,
-   "score": null,
-   "duration": null,
-   "episode_count": null,
-   "availability": "stub",
-   "first_seen": "2026-09-10T01:24:44Z",
-   "last_seen": "2026-09-10T01:24:44Z",
-   "last_changed": null,
-   "latest_episode_seen": "2026-09-26T21:15:10Z",
-   "alt_titles": [],
-   "genres": [],
-   "images": [
-    "https://gomunime.top/storage/posters/mushoku-tensei-iii-isekai-ittara-honki-dasu-poster.jpg"
-   ]
-  },
-  {
    "id": "2acf130c258fdca4",
    "slug": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita",
    "url": "",
@@ -1054,30 +1126,6 @@
    "genres": [],
    "images": [
     "https://gomunime.top/storage/posters/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season-poster.jpg"
-   ]
-  },
-  {
-   "id": "b98fa88741076823",
-   "slug": "nijusseiki-denki-mokuroku-eureka-evrika",
-   "url": "",
-   "title": "Nonton Anime Nijusseiki Denki Mokuroku Eureka Evrika Episode 1 Sub Indo",
-   "type": null,
-   "status": null,
-   "season": null,
-   "studio": null,
-   "year": null,
-   "score": null,
-   "duration": null,
-   "episode_count": null,
-   "availability": "stub",
-   "first_seen": "2026-09-10T01:25:03Z",
-   "last_seen": "2026-09-10T01:25:03Z",
-   "last_changed": null,
-   "latest_episode_seen": "2026-09-26T21:15:05Z",
-   "alt_titles": [],
-   "genres": [],
-   "images": [
-    "https://gomunime.top/storage/posters/nijusseiki-denki-mokuroku-eureka-evrika-poster.jpg"
    ]
   },
   {
@@ -2351,58 +2399,10 @@
    "images": [
     "https://gomunime.top/storage/posters/compass-2-0-sentou-setsuri-kaiseki-system-poster.jpg?v=2"
    ]
-  },
-  {
-   "id": "3d62fbb5946b8ab8",
-   "slug": "maebashi-witches",
-   "url": "",
-   "title": "Nonton Anime Maebashi Witches Episode 1 Sub Indo",
-   "type": null,
-   "status": null,
-   "season": null,
-   "studio": null,
-   "year": null,
-   "score": null,
-   "duration": null,
-   "episode_count": null,
-   "availability": "stub",
-   "first_seen": "2026-09-10T00:47:02Z",
-   "last_seen": "2026-09-10T00:47:02Z",
-   "last_changed": null,
-   "latest_episode_seen": "2026-09-25T21:51:14Z",
-   "alt_titles": [],
-   "genres": [],
-   "images": [
-    "https://gomunime.top/storage/posters/maebashi-witches-poster.jpg?v=2"
-   ]
-  },
-  {
-   "id": "9a9dc6bf7b2a8a2b",
-   "slug": "ubel-blatt",
-   "url": "",
-   "title": "Nonton Anime Übel Blatt Episode 2 Sub Indo",
-   "type": null,
-   "status": null,
-   "season": null,
-   "studio": null,
-   "year": null,
-   "score": null,
-   "duration": null,
-   "episode_count": null,
-   "availability": "stub",
-   "first_seen": "2026-09-10T00:43:18Z",
-   "last_seen": "2026-09-10T00:43:18Z",
-   "last_changed": null,
-   "latest_episode_seen": "2026-09-25T21:51:09Z",
-   "alt_titles": [],
-   "genres": [],
-   "images": [
-    "https://gomunime.top/storage/posters/ubel-blatt-banner.jpg"
-   ]
   }
  ],
  "page": 1,
  "per_page": 100,
- "total": 474,
+ "total": 476,
  "total_pages": 5
 }
