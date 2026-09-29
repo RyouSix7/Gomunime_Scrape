@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T12:59:51Z",
+ "generated_at": "2026-09-29T22:20:53Z",
  "endpoints": {
   "anime": "anime.json",
   "anime_detail": "anime/{id}.json",
